@@ -1,1 +1,1 @@
-# W3D1 w/ Torben Ginsberg
+# W3D1
